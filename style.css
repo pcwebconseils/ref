@@ -14,3 +14,8 @@ h2 {
 main {
     display: flex;
 }
+
+aside {
+    width: 35%;
+    background-color: rgb(170, 169, 169);
+}

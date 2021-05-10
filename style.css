@@ -2,6 +2,15 @@ ul {
     list-style: none;
     display: flex;
 }
-ul li{
+
+ul li {
     margin: 2em;
+}
+
+h2 {
+    font-size: small;
+}
+
+main {
+    display: flex;
 }
